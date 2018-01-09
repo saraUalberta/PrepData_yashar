@@ -1,0 +1,16 @@
+status file for recon-all
+Mon Jan  8 18:43:35 UTC 2018
+#@# MotionCor Mon Jan  8 18:43:40 UTC 2018
+#@# Talairach Mon Jan  8 18:43:52 UTC 2018
+#@# Talairach Failure Detection Mon Jan  8 18:49:00 UTC 2018
+#@# Nu Intensity Correction Mon Jan  8 18:49:12 UTC 2018
+#@# Intensity Normalization Mon Jan  8 18:59:26 UTC 2018
+#@# Skull Stripping Mon Jan  8 19:03:31 UTC 2018
+#@# EM Registration Mon Jan  8 19:46:57 UTC 2018
+#@# CA Normalize Mon Jan  8 20:22:10 UTC 2018
+#@# CA Reg Mon Jan  8 20:25:24 UTC 2018
+#@# SubCort Seg Tue Jan  9 03:09:11 UTC 2018
+Linux yashar 3.13.0-121-generic #170-Ubuntu SMP Wed Jun 14 09:04:33 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+
+recon-all -s 3473 exited with ERRORS at Tue Jan  9 04:21:45 UTC 2018
+
