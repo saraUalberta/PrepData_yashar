@@ -1,0 +1,13 @@
+------------------------------
+SUBJECT 3757
+START_TIME Sun Jan 14 00:43:52 UTC 2018
+END_TIME Sun Jan 14 20:50:28 UTC 2018
+RUNTIME_HOURS 20.110
+USER ubuntu
+HOST yashar
+PROCESSOR x86_64
+OS Linux
+UNAME Linux yashar 3.13.0-139-generic #188-Ubuntu SMP Tue Jan 9 14:43:09 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+VERSION $Id: recon-all,v 1.580.2.16 2017/01/18 14:11:24 zkaufman Exp $
+CMDPATH /usr/local/freesurfer/bin/recon-all
+CMDARGS -all -i sMRI/3757.nii -subjid 3757 -sd /usr/local/freesurfer/subjects
